@@ -2,7 +2,12 @@
 	"name": "smart-wrapper",
 	"displayName": "Smart Wrapper",
 	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adityackr/smart-wrapper-vscode-extension.git"
+	},
 	"version": "0.0.1",
+	"publisher": "Aditya Chakraborty",
 	"engines": {
 		"vscode": "^1.105.0"
 	},
