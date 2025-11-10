@@ -1,13 +1,13 @@
 {
 	"name": "smart-wrapper",
 	"displayName": "Smart Wrapper",
-	"description": "",
+	"description": "Instantly wrap selected HTML or JSX code with any tag—complete with smart indentation, multiline handling, and auto-closing tag support.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/adityackr/smart-wrapper-vscode-extension.git"
 	},
 	"version": "0.0.1",
-	"publisher": "Aditya Chakraborty",
+	"publisher": "AdityaChakraborty",
 	"engines": {
 		"vscode": "^1.105.0"
 	},
