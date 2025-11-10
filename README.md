@@ -94,17 +94,13 @@ Includes required scripts and output structure to generate a `.vsix` file using 
 
 ---
 
-## 🔮 **Upcoming Enhancements (Optional)**
-
-These can be added if you want extended functionality:
+## 🔮 **Upcoming Enhancements**
 
 - Auto-detect wrapper from clipboard
 - Surround-With context menu option
 - Wrap each selected line separately
 - JSX-aware parsing using Babel
 - Attribute support in wrapper tag (`<div class=\"box\">`)
-
-Let me know if you'd like me to implement any of these.
 
 ---
 
