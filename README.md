@@ -4,6 +4,8 @@ A powerful, developer-friendly extension that lets you wrap any HTML or JSX code
 
 Smart Wrapper streamlines common UI-development workflows, especially in React, Next.js, HTML, and component-heavy projects.
 
+![Demo](./images/demo.gif)
+
 ---
 
 ## ✨ **Features**
