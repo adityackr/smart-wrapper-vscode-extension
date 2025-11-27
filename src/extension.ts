@@ -82,7 +82,7 @@ function wrapContent(content: string, tag: string, baseIndent: string): string {
 	}
 
 	// Multi-line formatting
-	const innerIndent = baseIndent + ' ';
+	const innerIndent = baseIndent + '\t';
 	const lines = content.split('\n');
 	const indented = lines
 		.map((line) => (line.trim() ? innerIndent + line.trim() : line))

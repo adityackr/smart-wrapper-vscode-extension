@@ -6,11 +6,11 @@
 		"type": "git",
 		"url": "https://github.com/adityackr/smart-wrapper-vscode-extension.git"
 	},
-	"version": "0.5.0",
+	"version": "0.6.0",
 	"publisher": "AdityaChakraborty",
 	"icon": "images/icon.png",
 	"engines": {
-		"vscode": "^1.105.0"
+		"vscode": "^1.50.0"
 	},
 	"categories": [
 		"Other"
@@ -36,7 +36,7 @@
 		"test": "vscode-test"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.105.0",
+		"@types/vscode": "^1.50",
 		"@types/mocha": "^10.0.10",
 		"@types/node": "22.x",
 		"@typescript-eslint/eslint-plugin": "^8.45.0",
